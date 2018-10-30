@@ -7,6 +7,7 @@ file.o: randomfile.c
 clean:
 	rm *.o
 	rm a.out
+	rm *.txt
 
 run:
 	./a.out
